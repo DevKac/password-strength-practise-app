@@ -1,0 +1,35 @@
+.form-container {
+  max-width: 300px;
+  margin: 25px auto 0;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  display: flex;
+}
+
+.form-group > input {
+  width: 75%;
+}
+
+.form-group > .bar-container  {
+  width: 75%;
+  margin-left: 24%;
+}
+
+.form-label {
+  width: 25%;
+}
+
+.form-buttons {
+  text-align: right;
+}
+
+.red-square {
+  width: 200px;
+  height: 200px;
+  margin: 25px auto 0;
+  background-color: red;
+  padding: 20px;
+  text-align: center;
+}
